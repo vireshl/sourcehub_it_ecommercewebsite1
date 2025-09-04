@@ -1,0 +1,6 @@
+pymysql
+pandas
+streamlit
+plotly
+mysql-connector-python
+schedule
